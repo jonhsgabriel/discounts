@@ -23,6 +23,9 @@ public class PromoService {
     }
 
     public boolean checkPromoPeriod(LocalDate today) {
-        return true;
+        if (promoStart == null || promoEnd == null || today == null) {
+            return false;
+        }
+        return !today.isBefore(promoStart) && !today.isAfter(promoEnd);
     }
 }
