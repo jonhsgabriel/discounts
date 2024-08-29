@@ -1,14 +1,14 @@
 # INTEGRANTES DO GRUPO
 (fizemos em um grupo maior por afinidade, como no big brother (: )
--JOÃO GABRIEL,
--LUCCA MEURER, 
--JOÃO PEDRO CARVALHO,
--GUILHERME VITOR,
--ANDRÉ LUCAS,
--JOÃO VITOR,
--ARTUR KRAMER, 
--RAFAEL LIMA,
--PEDRO JABER
+- JOÃO GABRIEL,
+- LUCCA MEURER, 
+- JOÃO PEDRO CARVALHO,
+- GUILHERME VITOR,
+- ANDRÉ LUCAS,
+- JOÃO VITOR,
+- ARTUR KRAMER, 
+- RAFAEL LIMA,
+- PEDRO JABER
 
 # Nova Regra de Negócio para o Sistema de Pedidos
   ## Desconto Baseado na Quantidade de Itens:
